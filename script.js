@@ -635,12 +635,68 @@ const certificateData = {
     cisco_networking: {
         title: "Cisco Networking Academy Courses",
         organization: "Cisco Networking Academy",
-        image: "cisco/CCNA-Introduction_to_Networks_certificate_zaidalam9128-gmail-com_84ca5c33-1511-4d9b-a5a2-5da22a0d8178.pdf",
-        file: "cisco/CCNA-Introduction_to_Networks_certificate_zaidalam9128-gmail-com_84ca5c33-1511-4d9b-a5a2-5da22a0d8178.pdf",
+        image: "cisco/CCNA-_Introduction_to_Networks_certificate_zaidalam9128-gmail-com_84ca5c33-1511-4d9b-a5a2-5da22a0d8178 (1).pdf",
+        file: "cisco/CCNA-_Introduction_to_Networks_certificate_zaidalam9128-gmail-com_84ca5c33-1511-4d9b-a5a2-5da22a0d8178 (1).pdf",
         details: {
             "Course": "CCNA: Introduction to Networks",
             "Issued by": "Cisco Networking Academy"
         }
+    },
+    cisco_enterprise_networking: {
+        title: "CCNA Enterprise Networking, Security & Automation",
+        organization: "Cisco Networking Academy",
+        image: "cisco/CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_zaidalam9128-gmail-com_52a94a75-f751-4adf-978d-f0fb29d25e17.pdf",
+        file: "cisco/CCNA-_Enterprise_Networking-_Security-_and_Automation_certificate_zaidalam9128-gmail-com_52a94a75-f751-4adf-978d-f0fb29d25e17.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_switching_routing: {
+        title: "CCNA Switching, Routing & Wireless Essentials",
+        organization: "Cisco Networking Academy",
+        image: "cisco/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_zaidalam9128-gmail-com_06c3d7dc-aad4-4adb-834f-06818b697cf8.pdf",
+        file: "cisco/CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_zaidalam9128-gmail-com_06c3d7dc-aad4-4adb-834f-06818b697cf8.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_data_science: {
+        title: "Introduction to Data Science",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Introduction_to_Data_Science_certificate_zaidalam9128-gmail-com_be1015bb-601b-49f3-9652-4ace3ab0a0e2.pdf",
+        file: "cisco/Introduction_to_Data_Science_certificate_zaidalam9128-gmail-com_be1015bb-601b-49f3-9652-4ace3ab0a0e2.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_iot: {
+        title: "Introduction to IoT & Digital Transformation",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Introduction_to_IoT_and_Digital_Transformation_certificate_zaidalam9128-gmail-com_386398f2-fc22-4241-a425-90bf1a8a7c22.pdf",
+        file: "cisco/Introduction_to_IoT_and_Digital_Transformation_certificate_zaidalam9128-gmail-com_386398f2-fc22-4241-a425-90bf1a8a7c22.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_modern_ai: {
+        title: "Introduction to Modern AI",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Introduction_to_Modern_AI_certificate_zaidalam9128-gmail-com_aa47bfc3-3012-4901-a6de-c7624ffa5779.pdf",
+        file: "cisco/Introduction_to_Modern_AI_certificate_zaidalam9128-gmail-com_aa47bfc3-3012-4901-a6de-c7624ffa5779.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_python_1: {
+        title: "Python Essentials 1",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Python_Essentials_1_certificate_zaidalam9128-gmail-com_b8b8e7cf-d35b-49cf-8dc7-09165bf2add8.pdf",
+        file: "cisco/Python_Essentials_1_certificate_zaidalam9128-gmail-com_b8b8e7cf-d35b-49cf-8dc7-09165bf2add8.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_python_2: {
+        title: "Python Essentials 2",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Python_Essentials_2_certificate_zaidalam9128-gmail-com_f762d80a-5a61-4fa4-af38-1443a9a4a0ae.pdf",
+        file: "cisco/Python_Essentials_2_certificate_zaidalam9128-gmail-com_f762d80a-5a61-4fa4-af38-1443a9a4a0ae.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
+    },
+    cisco_ai_reviews: {
+        title: "AI: Analyze Customer Reviews",
+        organization: "Cisco Networking Academy",
+        image: "cisco/Apply_AI-_Analyze_Customer_Reviews_certificate_zaidalam9128-gmail-com_327d73fb-b16e-4fd5-a089-795430e3dcd1.pdf",
+        file: "cisco/Apply_AI-_Analyze_Customer_Reviews_certificate_zaidalam9128-gmail-com_327d73fb-b16e-4fd5-a089-795430e3dcd1.pdf",
+        details: { "Issued by": "Cisco Networking Academy" }
     },
     python_ml: {
         title: "Fundamentals of Python for ML, Data Science & Web Development",
